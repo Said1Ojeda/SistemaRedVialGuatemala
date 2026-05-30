@@ -1,0 +1,16 @@
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\bin\Debug\SistemaRedVialGuatemala.UI.exe.config
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\bin\Debug\SistemaRedVialGuatemala.UI.exe
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\bin\Debug\SistemaRedVialGuatemala.UI.pdb
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.csproj.AssemblyReference.cache
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.Formularios.FrmPrincipal.resources
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.Properties.Resources.resources
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.csproj.GenerateResource.cache
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.csproj.CoreCompileInputs.cache
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.exe
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.pdb
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.exe.config
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.Formularios.FrmAcercaDe.resources
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.Formularios.FrmConsultas.resources
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.Formularios.FrmDepartamentos.resources
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.Formularios.FrmMunicipios.resources
+C:\Users\saidf\source\repos\SistemaRedVialGuatemala\SistemaRedVialGuatemala.UI\obj\Debug\SistemaRedVialGuatemala.UI.Formularios.FrmRutas.resources
