@@ -1,11 +1,29 @@
-﻿using System.Data.SqlClient;
+﻿using System.Configuration;
+using System.Data.SqlClient;
 
 namespace SistemaRedVialGuatemala.UI.Datos
 {
     public class ConexionBD
     {
-        // Cadena para conectarse a SQL Server
-        private string cadenaConexion = @"Data Source=.\SQLEXPRESS02;Initial Catalog=BDRedVialGuatemala;Integrated Security=True;";
+        // Cadena por si no se encuentra la del App.config
+        private const string CadenaPorDefecto = @"Data Source=.\SQLEXPRESS02;Initial Catalog=BDRedVialGuatemala;Integrated Security=True;";
+
+        private string cadenaConexion;
+
+        public ConexionBD()
+        {
+            // La cadena se cambia en el App.config sin tocar el codigo
+            ConnectionStringSettings configuracion = ConfigurationManager.ConnectionStrings["RedVial"];
+
+            if (configuracion != null && !string.IsNullOrWhiteSpace(configuracion.ConnectionString))
+            {
+                cadenaConexion = configuracion.ConnectionString;
+            }
+            else
+            {
+                cadenaConexion = CadenaPorDefecto;
+            }
+        }
 
         public SqlConnection ObtenerConexion()
         {
